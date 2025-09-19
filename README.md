@@ -1,12 +1,9 @@
-# Teste de API utilizando o Postman 
+# Postman Collections - Gorest
+
+Este repositório contém as collections do **Postman** utilizadas para testar e documentar os endpoints da API.
 <hr>
 - api pública <a href="https://gorest.co.in"> gorest.co.in </a>
 <hr>
-
-# Postman Collections - Projeto API
-
-Este repositório contém as collections do **Postman** utilizadas para testar e documentar os endpoints da API.
-
 ---
 
 ## Estrutura
